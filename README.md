@@ -1,47 +1,106 @@
-# 👋 Hi, I'm Yessine Guetat
+# 👋 Hi, I'm Yessin Guetat
 
-### AI & Machine Learning · Data Science · Software Engineering
+### IT Student | Software Development | AI Agents | Web Application Security
 
-A software engineer dedicated to building intelligent systems and delivering
-impactful technological solutions. I specialize in AI, ML, and data-driven
-development, with experience in both algorithmic optimization and full-stack workflows.
+I'm a Computer Science student passionate about building secure,
+scalable, and intelligent applications.
+
+I specialize in full-stack development, web security, AI agents,
+and modern JavaScript ecosystems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python · Java · C · SQL · PHP · JavaScript · Dart
-- **Machine Learning:** TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy
-- **Web:** React · Node.js · Express · Laravel
-- **Mobile:** Flutter
-- **Tools:** Git · Docker · Linux · Jupyter Notebooks
+### Languages
+- JavaScript · TypeScript · PHP · Java · Python · Dart · SQL
 
----
+### Frontend
+- React · Next.js · HTML · CSS
 
-## 🚀 Selected Projects
+### Backend
+- Node.js · Express · Laravel
 
-### SECURAS WAF JavaScript Security Plugin
+### Mobile
+- Flutter · Dart
 
-Security plugin for JavaScript ecosystems (React, Next.js, Node.js), enabling
-integration of the SECURAS WAF SaaS into web applications.
+### Databases
+- MongoDB · MySQL · Redis
 
-- HTTP request interception and forwarding
-- Security telemetry
-- Security header hardening
+### AI & Data
+- LangChain · LangGraph · RAG · AI Agents
+
+### Cybersecurity
 - OWASP Top 10
 - OWASP API Security Top 10
+- Web Application Security
+- WAF
+- HTTP Security & Telemetry
 
-### Flutter Weather Application
-
-A mobile weather application built with Flutter and Dart.
-
-- REST API integration
-- Dynamic weather data
-- Responsive mobile UI
+### Tools
+- Git · GitHub · Docker · Linux · Postman
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Projects
 
-- LinkedIn
-- GitHub
+### 🛡️ SECURAS WAF – JavaScript Security Plugin
+
+Security plugin for JavaScript ecosystems (React, Next.js, Node.js),
+enabling the integration of the SECURAS WAF SaaS into web applications.
+
+- HTTP request interception and forwarding
+- Security telemetry collection
+- Security header hardening
+- OWASP Top 10 mitigation
+- OWASP API Security Top 10 mitigation
+- Node.js / Express middleware integration
+
+---
+
+### 🤖 Agentic Personal Assistant
+
+AI-powered personal assistant built around modern agentic AI concepts.
+
+- AI agents
+- LangGraph
+- LangChain
+- RAG
+- Memory
+- API integrations
+
+---
+
+### 📱 Flutter Application
+
+Mobile application developed with Flutter and Dart.
+
+- REST API integration
+- Flutter UI
+- Dart
+- API-driven architecture
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 AI Agents & Agentic AI
+- 🔐 Web & API Security
+- ☁️ Cloud Computing
+- 🧩 Full-Stack Development
+- 🐳 Docker & DevOps
+
+---
+
+## 📚 Currently Learning
+
+```text
+AI Agents
+   ↓
+LangChain / LangGraph
+   ↓
+RAG & Vector Databases
+   ↓
+Cloud & DevOps
+   ↓
+Cybersecurity
