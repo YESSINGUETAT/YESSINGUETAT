@@ -42,46 +42,6 @@ and modern JavaScript ecosystems.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ SECURAS WAF – JavaScript Security Plugin
-
-Security plugin for JavaScript ecosystems (React, Next.js, Node.js),
-enabling the integration of the SECURAS WAF SaaS into web applications.
-
-- HTTP request interception and forwarding
-- Security telemetry collection
-- Security header hardening
-- OWASP Top 10 mitigation
-- OWASP API Security Top 10 mitigation
-- Node.js / Express middleware integration
-
----
-
-### 🤖 Agentic Personal Assistant
-
-AI-powered personal assistant built around modern agentic AI concepts.
-
-- AI agents
-- LangGraph
-- LangChain
-- RAG
-- Memory
-- API integrations
-
----
-
-### 📱 Flutter Application
-
-Mobile application developed with Flutter and Dart.
-
-- REST API integration
-- Flutter UI
-- Dart
-- API-driven architecture
-
----
-
 ## 🎯 Current Focus
 
 - 🤖 AI Agents & Agentic AI
@@ -91,16 +51,3 @@ Mobile application developed with Flutter and Dart.
 - 🐳 Docker & DevOps
 
 ---
-
-## 📚 Currently Learning
-
-```text
-AI Agents
-   ↓
-LangChain / LangGraph
-   ↓
-RAG & Vector Databases
-   ↓
-Cloud & DevOps
-   ↓
-Cybersecurity
