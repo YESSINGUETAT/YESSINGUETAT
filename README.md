@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yessin Guetat
 
-### IT Student | Software Development | AI Agents | Web Application Security
+### Junior Cloud Enginer | Software Developer | AI Developer | Web Application Security
 
 I'm a Computer Science student passionate about building secure,
 scalable, and intelligent applications.
