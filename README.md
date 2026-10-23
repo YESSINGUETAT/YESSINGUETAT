@@ -13,7 +13,7 @@ and modern JavaScript ecosystems.
 ### Languages
 - JavaScript · TypeScript · PHP · Java · Python · Dart · SQL
 ### Frontend
-- React · Next.js · HTML · CSS
+- React · Next.js
 ### Backend
 - Node.js · Express · Laravel
 ### Mobile
